@@ -1,0 +1,14 @@
+D:\Programing Files\C#\FirstStepsInCoding\T02\bin\Debug\netcoreapp3.1\T02.exe
+D:\Programing Files\C#\FirstStepsInCoding\T02\bin\Debug\netcoreapp3.1\T02.deps.json
+D:\Programing Files\C#\FirstStepsInCoding\T02\bin\Debug\netcoreapp3.1\T02.runtimeconfig.json
+D:\Programing Files\C#\FirstStepsInCoding\T02\bin\Debug\netcoreapp3.1\T02.runtimeconfig.dev.json
+D:\Programing Files\C#\FirstStepsInCoding\T02\bin\Debug\netcoreapp3.1\T02.dll
+D:\Programing Files\C#\FirstStepsInCoding\T02\bin\Debug\netcoreapp3.1\T02.pdb
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.csproj.AssemblyReference.cache
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.AssemblyInfoInputs.cache
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.AssemblyInfo.cs
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.csproj.CoreCompileInputs.cache
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.dll
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.pdb
+D:\Programing Files\C#\FirstStepsInCoding\T02\obj\Debug\netcoreapp3.1\T02.genruntimeconfig.cache
